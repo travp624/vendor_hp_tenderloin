@@ -100,6 +100,3 @@ PRODUCT_COPY_FILES += \
     vendor/hp/tenderloin/proprietary/usr/share/alsa/pcm/surround71.conf:system/usr/share/alsa/pcm/surround71.conf \
     vendor/hp/tenderloin/proprietary/usr/share/alsa/alsa.conf:system/usr/share/alsa/alsa.conf \
     vendor/hp/tenderloin/proprietary/usr/share/alsa/cards/aliases.conf:system/usr/share/alsa/cards/aliases.conf
-
-    PRODUCT_COPY_FILES += \
-    vendor/BlackICE/prebuilt/common/app/NovaLauncher.apk:system/app/NovaLauncher.apk
